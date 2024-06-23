@@ -39,5 +39,6 @@ public class connect_cnt_11724 {
             }
         }
         System.out.println(cnt);
+        s.close();
     }
 }
