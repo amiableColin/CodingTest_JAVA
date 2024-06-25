@@ -15,5 +15,6 @@ public class jump_and_teleport {
             }
         }
         System.out.println(usage);
+        s.close();
     }
 }
